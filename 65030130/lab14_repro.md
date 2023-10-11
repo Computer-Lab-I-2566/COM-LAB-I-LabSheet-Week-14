@@ -1,1 +1,9 @@
-
+# Lab14_repro
+## Plugin1
+![2023-10-11 11_51_52-Window](https://github.com/Nitiphum7/COM-LAB-I-LabSheet-Week-14/assets/144196695/39bd21e3-7e98-4be0-b34d-34d400155659)
+## Plugin2
+![2023-10-11 11_52_03-Window](https://github.com/Nitiphum7/COM-LAB-I-LabSheet-Week-14/assets/144196695/456439a2-0eb2-4ecd-8d5c-7f5614b05397)
+## Plugin3
+![2023-10-11 11_50_12-Window](https://github.com/Nitiphum7/COM-LAB-I-LabSheet-Week-14/assets/144196695/e63a5323-66e6-4166-a1eb-0e11d8e73099)
+## Plugin4
+![2023-10-11 11_52_15-Window](https://github.com/Nitiphum7/COM-LAB-I-LabSheet-Week-14/assets/144196695/ba39125a-5acc-4c19-a3b5-db25e85b114a)
