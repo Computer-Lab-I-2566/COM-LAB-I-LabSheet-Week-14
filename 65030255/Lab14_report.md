@@ -1,4 +1,8 @@
 # ภาพ lab 14
+65030255 สรวิชญ์ ชวนเชย
+----------------------------------------------------
+ลิ้งค์งาน
+https://github.com/Sorawit255/PluginPrototype-65030255.git
 
 ## plugins1
 ![image](https://github.com/Sorawit255/COM-LAB-I-LabSheet-Week-14-65030255/assets/144196505/e8cf12b1-081b-4a77-8fe8-9ee1e5f89619)
