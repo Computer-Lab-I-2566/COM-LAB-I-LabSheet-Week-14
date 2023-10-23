@@ -3,9 +3,7 @@
 # ส่งงาน 65030289 นางสาวอัญชิสา เพชรน้อย 
 # ลิ้งค์งาน
 https://github.com/AnchisaPhetnoi/PluginPrototype-65030289.git
-
 https://github.com/AnchisaPhetnoi/PluginPrototype-65030289.git
-
 ##  plugins1
 # ![394330491_3606570139586678_8657775306997500009_n](https://github.com/AnchisaPhetnoi/COM-LAB-I-LabSheet-Week-14/assets/144197034/20b47e76-80a1-431e-839c-1ee9aef9c3b0)
 # ![395044639_152303131299853_2052682783207257528_n](https://github.com/AnchisaPhetnoi/COM-LAB-I-LabSheet-Week-14/assets/144197034/c967a457-059b-47bb-836e-4ae2fa4d6ccc)
@@ -25,8 +23,7 @@ https://github.com/AnchisaPhetnoi/PluginPrototype-65030289.git
 # ![393346827_733747018597520_2335446233836928000_n](https://github.com/AnchisaPhetnoi/COM-LAB-I-LabSheet-Week-14/assets/144197034/bec121ff-1d09-4a12-a4f3-7d4f173d4fa1)
 ##  plugins5
 # ![394406722_865059288165103_7134293937663843461_n](https://github.com/AnchisaPhetnoi/COM-LAB-I-LabSheet-Week-14/assets/144197034/f661ac33-de99-48c6-8ba5-766d0ecd3cc5)
-# ![ภาพ](https://github.com/AnchisaPhetnoi/COM-LAB-I-LabSheet-Week-14/assets/144197034/a0f67827-5497-4bfa-8737-77a5f2292594)
-
+# ![ภาพ](https://github.com/AnchisaPhetnoi/COM-LAB-I-LabSheet-Week-14/assets/144197034/d8644b50-ccd4-40e1-b83e-9303905d2eda)
 
 
 
